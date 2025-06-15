@@ -1,6 +1,6 @@
 # Projeto Integrando ChatGpt com Node e React
 
-O projeto foi feito seguindo a vídeo aula do instrutor Felipe Aguiar. <br>
+O projeto foi feito seguindo as videoaulas do instrutor Felipe Aguiar. <br>
 O projeto tem o objetivo de criar uma réplica do ChatGpt, utilizando a API Chat Completions da OpenAI. <br>
 Foi modificado para utilizar a versão gpt-4.1 . <br>
 Foram adicionados alguns tratamentos de exceção no código. <br>
