@@ -10,13 +10,13 @@ Abaixo é mostrada uma imagem do artigo publicado no site da DIO.
 📖 [Clique aqui para ler o artigo](https://dio.me/articles/java-vs-python-comparacao-tecnica-entre-duas-gigantes-da-programacao-95a84f70e478?utm_source=link&utm_campaign=mgm-java-vs-python-comparacao-tecnica-entre-duas-gigantes-da-programacao-95a84f70e478&utm_medium=article )
 
 
-# Tecnologias utilizadas no projeto
+## Tecnologias utilizadas no projeto
 - ChatGPT
 - Copilot
 - PowerPoint
 
 
-# Prompts utilizados no chatGPt
+## Prompts utilizados no chatGPt
 ```
 Eu estou desenvolvendo um artigo tech sobre Java versus Python. Me dê 6 sugestões de headines para o meu artigo.
 ```
@@ -42,7 +42,7 @@ Me dê exemplos de tratamentos de exceção executados nas duas linguagens.
 Prepare uma introdução para este artigo baseado no que foi feito anteriormente.
 ```
 
-# Prompts utilizados no Copilot
+## Prompts utilizados no Copilot
 
 ```
 Eu estou desenvolvendo um artigo tech sobre Java versus Python. Faça uma imagem para este artigo que represente uma batalha entre essas duas linguagens de programação.
