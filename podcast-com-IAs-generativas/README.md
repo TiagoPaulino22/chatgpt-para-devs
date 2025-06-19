@@ -1,6 +1,6 @@
 # Projeto Podcast Gerado por IAs
 
-![capa podcast](/assets/podcast-image.png)
+![capa podcast](assets/podcast-image.png)
 
 Esse projeto foi desenvolvido durante o curso, mas o podcast não foi publicado.
 
